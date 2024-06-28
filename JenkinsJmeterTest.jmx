@@ -89,7 +89,7 @@
               <idleTime>true</idleTime>
             </value>
           </objProp>
-          <stringProp name="filename"></stringProp>
+          <stringProp name="filename">D:\Projects\Load\JmeterTest-DemoQA\results\tree.csv</stringProp>
         </ResultCollector>
         <hashTree/>
         <ResultCollector guiclass="TableVisualizer" testclass="ResultCollector" testname="JmeterResultTable">
